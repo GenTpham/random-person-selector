@@ -19,7 +19,7 @@ Một ứng dụng web đơn giản để chọn người ngẫu nhiên từ m�
 
 ## Demo
 
-🌐 **[Truy cập ứng dụng tại đây](https://GenTpham.github.io/random_app)**
+🌐 **[Truy cập ứng dụng tại đây](https://GenTpham.github.io/random-person-selector)**
 
 ## Công nghệ sử dụng
 
@@ -32,7 +32,7 @@ Một ứng dụng web đơn giản để chọn người ngẫu nhiên từ m�
 
 1. Clone repository:
 ```bash
-git clone https://github.com/GenTpham/random_app.git
+git clone https://github.com/GenTpham/random-person-selector.git
 ```
 
 2. Mở file `index.html` trong trình duyệt
